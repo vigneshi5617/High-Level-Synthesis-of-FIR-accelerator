@@ -313,8 +313,10 @@ This project was developed as part of **ECE 720 - Hardware Accelerator Design** 
 
 <div align="center">
 
-**🎓 Developed by**: [Your Name]  
-**📧 Contact**: [your.email@domain.com]  
+**🎓 Developed by**: Vignesh Anand  
+**📧 Contact**: [vigneshi5617@gmail.com](mailto:vigneshi5617@gmail.com)  
+**💼 LinkedIn**: [linkedin.com/in/vignesh-anand16064](https://www.linkedin.com/in/vignesh-anand16064/)  
+**🐙 GitHub**: [github.com/vigneshi5617](https://github.com/vigneshi5617)  
 **🏫 Institution**: NC State University  
 **👨‍🏫 Advisor**: Prof. W. Rhett Davis  
 
